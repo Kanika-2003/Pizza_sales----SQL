@@ -20,7 +20,7 @@ The goal is to derive business insights such as total orders, revenue, and sales
 - Analyzed order patterns based on time and category
 - Evaluated sales trends and customer preferences
 
-#### Detailed SQL queries and results are available in the attached PDF file.
+##### Detailed SQL queries and results are available in the attached PDF file.
 
 ---
 
